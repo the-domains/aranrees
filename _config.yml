@@ -1,0 +1,14 @@
+layout_spectrum: 0.7792696
+color:
+  saturation: 0.4191396
+  lightness: 0.7953813
+  brandStrength: 1
+  brandColors:
+    - '#FEFEFE'
+    - '#1D1B1A'
+    - '#C8C9CA'
+    - '#E40D15'
+    - '#5E5F5F'
+  rhythmicContrast: 0.1756703
+typography_spectrum: 0.82116
+name: aranrees
