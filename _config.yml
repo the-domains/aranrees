@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.7133221
+typography_spectrum: 0.5547798
 color:
   saturation: 0.537594
-  brandStrength: 0.5193341
+  brandStrength: 0.858754
   lightness: 0.8941998
   brandColors:
     - '#FFFFFF'
-    - '#1A1919'
-    - '#B5B4B4'
-    - '#545353'
-    - '#D8232A'
-  rhythmicContrast: 0.5902256
-layout_spectrum: 0.5657673
+    - '#000000'
+    - '#ADADAD'
+    - '#5A5A5A'
+    - '#D7D7D7'
+  rhythmicContrast: 1
+layout_spectrum: 1
 name: aranrees
